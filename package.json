@@ -1,0 +1,16 @@
+{
+  "name": "javascripttdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "vitest": "^0.34.6"
+  }
+}
